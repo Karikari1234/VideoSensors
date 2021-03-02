@@ -47,7 +47,7 @@ At the moment it records the following data,
  - activity_main.xml is the file that contains code that shows how the UI will look like.
  - Make desired changes and click on the 'play' button or 'run' from the toolbar. 
 
-
+-Paril Doshi
 
 ### License
 
